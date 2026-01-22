@@ -5,3 +5,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+## Lista de compras
+- [x] Carne
+- [x] Peixe
+- [ ] Arroz
